@@ -1,0 +1,38 @@
+{
+  "id": "house",
+  "title": "House",
+  "steps": [
+    {
+      "step": 1,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_01.png"
+    },
+    {
+      "step": 2,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_02.png"
+    },
+    {
+      "step": 3,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_03.png"
+    },
+    {
+      "step": 4,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_04.png"
+    },
+    {
+      "step": 5,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_05.png"
+    },
+    {
+      "step": 6,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_06.png"
+    },
+    {
+      "step": 7,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_07.png"
+    },
+    {
+      "step": 8,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_08.png"
+    }
+  ]
+}

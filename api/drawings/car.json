@@ -1,0 +1,46 @@
+{
+  "id": "car",
+  "title": "Car",
+  "steps": [
+    {
+      "step": 1,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_01.png"
+    },
+    {
+      "step": 2,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_02.png"
+    },
+    {
+      "step": 3,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_03.png"
+    },
+    {
+      "step": 4,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_04.png"
+    },
+    {
+      "step": 5,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_05.png"
+    },
+    {
+      "step": 6,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_06.png"
+    },
+    {
+      "step": 7,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_07.png"
+    },
+    {
+      "step": 8,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_08.png"
+    },
+    {
+      "step": 9,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_09.png"
+    },
+    {
+      "step": 10,
+      "imageUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_10.png"
+    }
+  ]
+}

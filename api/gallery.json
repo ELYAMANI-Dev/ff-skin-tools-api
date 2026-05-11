@@ -1,0 +1,76 @@
+{
+  "drawings": [
+    {
+      "id": "cat",
+      "title": "Cat Face",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/cat/step_10.png",
+      "totalSteps": 10
+    },
+    {
+      "id": "dog",
+      "title": "Dog Face",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/dog/step_10.png",
+      "totalSteps": 10
+    },
+    {
+      "id": "star",
+      "title": "Star",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/star/step_10.png",
+      "totalSteps": 10
+    },
+    {
+      "id": "house",
+      "title": "House",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/house/step_08.png",
+      "totalSteps": 8
+    },
+    {
+      "id": "flower",
+      "title": "Flower",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/flower/step_10.png",
+      "totalSteps": 10
+    },
+    {
+      "id": "heart",
+      "title": "Heart",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/heart/step_05.png",
+      "totalSteps": 5
+    },
+    {
+      "id": "fish",
+      "title": "Fish",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/fish/step_08.png",
+      "totalSteps": 8
+    },
+    {
+      "id": "butterfly",
+      "title": "Butterfly",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/butterfly/step_10.png",
+      "totalSteps": 10
+    },
+    {
+      "id": "tree",
+      "title": "Tree",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/tree/step_08.png",
+      "totalSteps": 8
+    },
+    {
+      "id": "car",
+      "title": "Car",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/car/step_10.png",
+      "totalSteps": 10
+    },
+    {
+      "id": "sun",
+      "title": "Smiling Sun",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/sun/step_08.png",
+      "totalSteps": 8
+    },
+    {
+      "id": "rocket",
+      "title": "Rocket",
+      "thumbnailUrl": "https://elyamani-dev.github.io/ff-skin-tools-api/images/rocket/step_08.png",
+      "totalSteps": 8
+    }
+  ]
+}
